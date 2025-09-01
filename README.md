@@ -37,8 +37,8 @@ CDAC Graduate passionate about **Microservices, Cloud, and High-Performance Syst
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](linkedin.com/in/vedang-hinge-53b787376)  
-- [Email](iacsdvedang@gmail.com)  
+- [LinkedIn](https://linkedin.com/in/vedang-hinge-53b787376)  
+- [Email](mailto:iacsdvedang@gmail.com)  
 
 ---
 
